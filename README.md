@@ -4,7 +4,7 @@ Go developer focused on high perfomance and security
 
 ![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=wesley-new-dev&theme=tokyo-night&hide_border=true&area=true)   
 
-![Streak Stats](https://streak-stats.demolab.com?user=wesley-new-devO&theme=dark&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com?user=wesley-new-dev&theme=dark&hide_border=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=wesley-new-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
