@@ -2,10 +2,6 @@
 
 **Golang developer focused on high perfomance and security**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesley-new-dev&show_icons=true&theme=radial&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wesley-new-dev&theme=radial)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wesley-new-dev&show_icons=true&theme=radial&locale=en" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-new-dev&layout=compact&theme=radial&locale=en" alt="Top Languages" height="180" />
