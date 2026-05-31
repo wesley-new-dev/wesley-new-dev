@@ -9,11 +9,8 @@
 
 
 **Primary Language**: I use **Golang** as my main language for building fast, concurrent and memory-efficient microservices.
-
 **Data and Caching**: I design relational schemas using **MySQL** and leverage **Redis** for high-throughput operations, specifically for rate limiting.
-
 **Infrastructure and DevOps**: I containerize my applications using **Docker** to ensure consistent environments.
-
 **Security and Quality Gates**: I integrate automated security scanning into my pipeline using **Trivy** alongside **Golangci-lint** to enforce clean code and prevent concurrency bugs.
 
 
