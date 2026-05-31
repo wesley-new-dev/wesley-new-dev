@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Go developer focused on high perfomance and security
-![Go](https://img.shields.io/badge/:badgeContent)
+![Go](https://img.shields.io/badge/Go-1.21-00ADD8?style=for-the-badge&logo=go&logoColor=white)   
 
 
 <!--
