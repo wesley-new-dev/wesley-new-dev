@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Go developer focused on high perfomance and security
+![Go](https://img.shields.io/badge/:badgeContent)
+
+
 <!--
 **wesley-new-dev/wesley-new-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
