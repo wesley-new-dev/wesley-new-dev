@@ -18,3 +18,5 @@ My primary focus is building high-perfomance, ultra-secure and highly scalable b
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesley-new-dev&show_icons=true&theme=tokyonight&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-new-dev&layout=compact&theme=tokyonight&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wesley-new-dev&theme=tokyonight)
