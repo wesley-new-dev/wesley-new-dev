@@ -15,6 +15,3 @@
 
 
 My primary focus is building high-perfomance, ultra-secure and highly scalable backend applications.
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesley-new-dev&show_icons=true&theme=tokyonight&locale=en)
